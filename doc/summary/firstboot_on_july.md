@@ -10,6 +10,7 @@
 # 项目简介
 
 本项目属于openthos项目的一部分，提供 [Openthos](https://github.com/openthos/openthos/wiki) 对原第一次启动设计实现以及功能扩展。
+11月配合完成用户管理相关的实现。
 
 ##　当前开发人员 (20160801-20160831)
 李兵
